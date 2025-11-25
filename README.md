@@ -79,6 +79,6 @@ M. Kate and S. Neethirajan, (2025). MooLogue: A Cross-Platform Mobile Applicatio
 
 Contact
 
-mooanalalytica@gmail.com
+mooanalytica@gmail.com
 
 https://github.com/mooanalytica/moologue-app
