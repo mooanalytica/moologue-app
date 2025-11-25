@@ -1,0 +1,7 @@
+{
+  "predicted_label": "Estrus call (example only)",
+  "confidence": 0.87,
+  "inference_time_ms": 54,
+  "model_version": "v1.0-demo",
+  "notes": "Illustrative output format; not derived from real farm audio."
+}
