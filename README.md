@@ -1,5 +1,7 @@
 MooLogue — ML-Driven Bioacoustic Analysis for Dairy Cattle Vocalizations
 
+This version (v1.0) is the official scientific release of the MooLogue application.
+
 SoftwareX – Developer & Research Documentation
 
 Overview
