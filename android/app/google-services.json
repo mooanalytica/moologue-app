@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1059817757211",
+    "firebase_url": "https://moologue-default-rtdb.firebaseio.com",
+    "project_id": "moologue",
+    "storage_bucket": "moologue.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059817757211:android:15c9e18356f1d4df8436be",
+        "android_client_info": {
+          "package_name": "com.mooanalytica.moologue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059817757211-d5jq8hv17onkaudu9a2ofsc7uobbh5dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mooanalytica.moologue",
+            "certificate_hash": "08e01c2542760c17e4b1d9e843f52ddb16b3ef29"
+          }
+        },
+        {
+          "client_id": "1059817757211-bmcmvs1jai0gh2uma8uk9l39meqk85b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyA0a4QMh58us0P_DGei-_qWvAZCkNKmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059817757211-bmcmvs1jai0gh2uma8uk9l39meqk85b9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1059817757211-56t93hdtdgh7p2rbnsvbrcam1fi0n8nc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mooanalytica.moologue"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
