@@ -83,4 +83,17 @@ Contact
 
 mooanalytica@gmail.com
 
-https://github.com/mooanalytica/moologue-app
+https://github.com/mooanalytica/moologue-app 
+
+| Nr     | Code metadata description                               | Metadata                                                                                                                                                            |
+| ------ | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **C1** | Current code version                                    | **v1.0**                                                                                                                                                            |
+| **C2** | Permanent link to code/repository used for this version | **[https://github.com/mooanalytica/moologue-app](https://github.com/mooanalytica/moologue-app)**                                                                    |
+| **C3** | Permanent link to reproducible capsule                  | **[https://github.com/mooanalytica/moologue-app/tree/main/examples](https://github.com/mooanalytica/moologue-app/tree/main/examples)**                              |
+| **C4** | Legal code license                                      | **MIT License**                                                                                                                                                     |
+| **C5** | Code versioning system used                             | **git**                                                                                                                                                             |
+| **C6** | Software code languages, tools, services                | **Flutter (Dart), Python 3.9, PyTorch, Librosa, AWS Lambda, AWS S3, AWS API Gateway, DynamoDB**                                                                     |
+| **C7** | Compilation requirements, OS, dependencies              | **Flutter SDK ≥ 3.16; Dart ≥ 3.2; Python ≥ 3.9; Dependencies: provider, audioplayers, http, shared_preferences, librosa 0.10, boto3, torch; Android 10+, iOS 14+.** |
+| **C8** | Developer documentation                                 | **README_softwarex.md**                                                                                                                                             |
+| **C9** | Support email                                           | **[mooanalytica@gmail.com](mailto:mooanalytica@gmail.com)**                                                                                                         |
+
