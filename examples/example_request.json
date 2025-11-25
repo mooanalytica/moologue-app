@@ -1,0 +1,8 @@
+{
+  "description": "Example request for MooLogue audio inference",
+  "filename": "example_silent.wav",
+  "sampling_rate_hz": 16000,
+  "duration_seconds": 1.0,
+  "device": "demo-device",
+  "notes": "This is a minimal example payload for the SoftwareX reproducible capsule."
+}
